@@ -1025,6 +1025,18 @@ section {
   margin-top: 3px;
 }
 
+/*Mobile small and medium*/
+@media (min-width: 320px) and (max-width: 425px){
+.footer .footer-top .footer-info .logo span {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: crimson;
+  font-family: "Nunito", sans-serif;
+  margin-top: 3px;
+}
+}
+
 .footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
